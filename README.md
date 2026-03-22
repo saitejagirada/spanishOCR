@@ -33,6 +33,8 @@ The pipeline was graded against professor-verified Ground Truth documents utiliz
 > * Evaluated the document `PORCONES1628` only on 3 pages, exempted P4 to remove confusion.
 > * Some lines of the document `PORCONES1650` are bended, meaning the model is unable to draw a perfect layout among the lines, which resulted in higher error rates.
 <img width="1000" height="1100" alt="layout" src="https://github.com/user-attachments/assets/7b37546f-947c-4d15-ae5a-6d044f0d93c3" />
+<img width="1990" height="182" alt="Unknown-3" src="https://github.com/user-attachments/assets/950808cc-e612-4f91-a0c1-2ed48286bced" />
+
 
 ## Tech Stack
 
